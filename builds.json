@@ -1,0 +1,32 @@
+[
+  {
+    "id": "eb81a030-834c-4aee-ae1c-f0fd82fa3cca",
+    "jobId": null,
+    "projectId": "p-1793518414374-mmuks7",
+    "filename": "PROJECT-NEXA-Premium-Modern.zip",
+    "uploadFilename": "PROJECT-NEXA-Premium-Modern.zip",
+    "appName": "PROJECT NEXA Premium Modern",
+    "appId": "com.nexa.projectnexapremiummodern",
+    "version": "1.0.0",
+    "versionCode": "1",
+    "detectedType": "Web / JavaScript",
+    "prepared": false,
+    "metadataApplied": false,
+    "status": "failed",
+    "createdAt": 1793518451076,
+    "startedAt": 1793518451076,
+    "engineUrl": "https://apkit.onrender.com",
+    "error": "Failed to fetch",
+    "downloadUrl": null,
+    "progress": null,
+    "iconDataUrl": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5NiA5NiI+PHJlY3Qgd2lkdGg9Ijk2IiBoZWlnaHQ9Ijk2IiByeD0iMjIiIGZpbGw9IiNkOGZmNDIiLz48cGF0aCBkPSJNMjMgNzNWMjNoMTFsMjggMzFWMjNoMTF2NTBINjJMMzQgNDJ2MzF6IiBmaWxsPSIjMTgyMDJiIi8+PC9zdmc+",
+    "buildOptions": {
+      "internetMode": "online",
+      "camera": false,
+      "wakeLock": true,
+      "vibrate": false
+    },
+    "finishedAt": 1793518451474,
+    "username": "buildernexa"
+  }
+]
