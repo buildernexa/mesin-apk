@@ -1,8 +1,15 @@
 {
   "Queen": {
-    "activated": false,
+    "passwordHash": "0ec8d8f76c48aa72b55bf3f4b42234991c1c433bd6e585fbdc1eb6b3fc3b4b0a",
+    "passwordSalt": "fstavvvvrgw",
+    "avatar": null,
     "role": "developer",
-    "expiresAt": "2026-12-01T06:01:19.194Z",
-    "createdBy": "NexaDeveloper"
+    "verified": false,
+    "verifiedBadge": null,
+    "activated": true,
+    "buildsThisWeek": 0,
+    "weekResetAt": "2026-11-01T06:02:29.316Z",
+    "lastActiveAt": "2026-11-01T06:02:29.316Z",
+    "expiresAt": "2026-12-01T06:01:19.194Z"
   }
 }
