@@ -11,5 +11,11 @@
     "weekResetAt": "2026-11-01T06:02:29.316Z",
     "lastActiveAt": "2026-11-01T06:02:29.316Z",
     "expiresAt": "2026-12-01T06:01:19.194Z"
+  },
+  "Nexa": {
+    "activated": false,
+    "role": "owner",
+    "expiresAt": "2026-11-02T06:07:55.184Z",
+    "createdBy": "Queen"
   }
 }
